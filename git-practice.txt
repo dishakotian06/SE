@@ -1,0 +1,2 @@
+Git Practice
+This file is created to demonstrate Git branch and merge commands.
